@@ -1,0 +1,10 @@
+CORRECTNESS TEST SUITE
+============================================================
+n=0    edge test PASSED (3 probes)
+n=1    edge test PASSED (4 probes)
+n=2    edge test PASSED (5 probes)
+n=3    edge test PASSED (6 probes)
+n=10   edge test PASSED (13 probes)
+n=1000   randomised test PASSED (1004 probes, hits+misses+boundaries)
+n=10000  randomised test PASSED (1004 probes, hits+misses+boundaries)
+ALL TESTS PASSED: Linear, Binary(recursive), Binary(iterative), Hash agree with oracle.
